@@ -6,7 +6,8 @@ OpenCore Hackintosh configuration for relatively dated hardware running Mojave
 
 ## System
 
-**macOS Mojave**  
+macOS Mojave
+
 **Version** 10.14.4  
 
 **Processor** 3,4 GHz Intel Core i5  
