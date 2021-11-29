@@ -1,6 +1,6 @@
 # GA-Z87X
 
-OpenCore Hackintosh configuration for relatively dated hardware running Mojave
+OpenCore configuration for relatively dated hardware running Mojave
 
 **Note:** While I have put together this configuration, it hasn't been done for my own Hackintosh. Hence updates may be sparse.
 
