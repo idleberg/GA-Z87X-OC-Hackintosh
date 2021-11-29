@@ -10,7 +10,7 @@ macOS Mojave
 
 **Version** 10.14.4  
 
-**Processor** 3,4 GHz Intel Core i5  
+**Processor** 3,4 GHz Intel Core i5 (Haswell)  
 **Memory** 16 GB 133 MHz DDR3  
 **Graphics** Intel Iris Pro 1536 MB  
 
