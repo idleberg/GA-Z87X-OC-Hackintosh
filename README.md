@@ -1,4 +1,4 @@
-# GA-Z87X
+# GA-Z87X-OC Hackintosh
 
 OpenCore configuration for relatively dated hardware running Mojave
 
